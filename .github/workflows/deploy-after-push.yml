@@ -17,4 +17,3 @@ jobs:
         source: "monic/*"
         target: /var/www/html/
         
-        
