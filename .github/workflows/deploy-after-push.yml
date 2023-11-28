@@ -15,4 +15,4 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: 22
         source: "monic/*"
-        target: /var/www/html
+        target: /var/www/html/
